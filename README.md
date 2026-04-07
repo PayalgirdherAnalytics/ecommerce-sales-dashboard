@@ -36,7 +36,7 @@ Built an interactive dashboard using: KPIs (Total Sales, Total Orders, Avg Deliv
 
 📷 Dashboard Preview:
 
-!Excel Dashboard.png
+![Dashboard](Excel Dashboard.png)
 
 📈 Key Insights
 
