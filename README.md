@@ -52,4 +52,4 @@ Add more advanced Excel features (Power Query / Power Pivot). Perform deeper ana
 
 📌 Author
 
-Payal |Aspiring Data Analyst | Excel • SQL • Power BI | Python (Basics)
+Sumit |Aspiring Data Analyst | Excel • SQL • Power BI | Python (Basics)
